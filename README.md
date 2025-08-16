@@ -34,7 +34,7 @@ Składa się z 7 głównych tabel:
 - **Wysyłki** – przewoźnicy, format dostawy, status przesyłki  
 - **Pracownicy** – dane pracowników (100 rekordów)  
 
-Szczegółowy opis wszystkich pól tabel znajduje się w [docs/Struktura.pdf]
+Szczegółowy opis wszystkich pól tabel znajduje się w [docs/Struktura.pdf] (docs/Struktura.pdf)
 
 
 ## 📂 Struktura repozytorium
