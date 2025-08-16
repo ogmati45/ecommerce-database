@@ -56,14 +56,14 @@ Szczegółowy opis wszystkich pól tabel znajduje się w [docs/Struktura.pdf]
 - **docs/**
   - `Schemat_ERD.png` – diagram bazy danych  
   - `Struktura.pdf` – szczegółowy opis tabel i pól  
-  - `E-commerce EXCEL.pdf` – analizy w Excelu  
-  - `E-commerce BI.pdf` – raporty w Power BI  
+  - `E-commerce_EXCEL.pdf` – analizy w Excelu  
+  - `E-commerce_BI.pdf` – raporty w Power BI  
 
 - **excel/**
-  - `E-commerce EXCEL.xlsx` – plik źródłowy z analizami  
+  - `E-commerce_EXCEL.xlsx` – plik źródłowy z analizami  
 
 - **powerbi/**
-  - `E-commerce BI.pbix` – dashboard w Power BI  
+  - `E-commerce_BI.pbix` – dashboard w Power BI  
 
 - **assets/**
   - `LOGO.jpeg` – logo projektu
