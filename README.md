@@ -93,7 +93,7 @@ Szczegółowy opis wszystkich pól tabel znajduje się w [docs/Struktura.pdf](do
 
 3. **Analizy i dashboardy**
    - Dashboardy w Excelu i Power BI dostępne są w katalogach [`excel/`](excel/) oraz [`powerbi/`](powerbi/).  
-   - Ze względu na rozmiar plików, pełny plik Excel został umieszczony w Google Sheets (szczegóły w [`excel/excel_info/README.md`](excel/excel_info/README.md)).  
+   - Ze względu na rozmiar plików, pełny plik Excel został umieszczony w Google Sheets (szczegóły w [`excel/README.md`](excel/README.md)).  
 
 ## 💻 Przykładowe zapytania SQL
 
