@@ -60,7 +60,8 @@ Szczegółowy opis wszystkich pól tabel znajduje się w [docs/Struktura.pdf](do
   - `Schemat_ERD.png` – diagram bazy danych  
   - `Struktura.pdf` – szczegółowy opis tabel i pól  
   - `E-commerce_EXCEL.pdf` – analizy w Excelu  
-  - `E-commerce_BI.pdf` – raporty w Power BI  
+  - `E-commerce_BI.pdf` – raporty w Power BI
+  - `Model.mwb` - model bazy danych w formacie **MySQL Workbench**
 
 - **excel/**
   - `E-commerce_EXCEL.xlsx` – plik źródłowy z analizami  
@@ -150,8 +151,17 @@ SELECT Platnosci.ID_Pracownika, Pracownicy.Imie, Pracownicy.Nazwisko, COUNT(DIST
 - Rozwój praktycznych umiejętności w SQL, Excel, Power BI i Workbench  
 - Zaprojektowanie realistycznej bazy e-commerce od podstaw  
 - Analiza dużego zbioru danych (ponad 180 000 rekordów)  
-- Budowa portfolio do pokazania na rozmowach rekrutacyjnych  
+- Budowa portfolio do pokazania na rozmowach rekrutacyjnych
+  
+## 📐 Dokumentacja w MySQL Workbench
 
+Dodatkowo do repozytorium został dołączony plik modelu bazy danych w formacie **`.mwb`** (MySQL Workbench).  
+Dzięki niemu można:
+
+- otworzyć pełny model logiczny i fizyczny bazy,  
+- zobaczyć wszystkie relacje i atrybuty,  
+- wygenerować diagramy oraz skrypty SQL bezpośrednio z Workbencha.
+  
 ## 🧠 Czego się nauczyłem
 - Projektowania i normalizacji baz danych  
 - Tworzenia i optymalizacji zapytań SQL  
